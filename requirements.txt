@@ -1,3 +1,4 @@
 streamlit
-scikit
-
+pandas
+scikit-learn
+openpyxl
